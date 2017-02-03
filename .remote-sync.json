@@ -1,0 +1,14 @@
+{
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "45.55.175.167",
+  "ignore": [
+    ".git/"
+  ],
+  "username": "root",
+  "password": "Brandon213!",
+  "watch": [],
+  "transport": "scp",
+  "target": "/var/www/html"
+}
